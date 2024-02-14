@@ -338,7 +338,7 @@ header, footer{
 
 /* ---------- EXTRA LARGE SCREEN STYLES ---------- */
 /* --------------- BEGIN EXTRA LARGE SCREEN SIZES --------------- */
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1280px) {
      header, footer{
         background-color: var(--orange);
         padding-left: 5%;
